@@ -1,1 +1,1 @@
-# toy_evm_atmega8
+# Simple Electronic Voting Machine Prototype
